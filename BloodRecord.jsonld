@@ -1,0 +1,35 @@
+{
+    "@context": [
+        {
+            "@protected": true,
+            "@version": 1.1,
+            "id": "@id",
+            "type": "@type",
+            "bloodRecord": {
+                "@context": {
+                    "@propagate": true,
+                    "@protected": true,
+                    "polygon-vocab": "urn:uuid:0a38e1e7-afb5-4229-aa23-6c31e06f261a#",
+                    "xsd": "http://www.w3.org/2001/XMLSchema#",
+                    "doctor-name": {
+                        "@id": "polygon-vocab:doctor-name",
+                        "@type": "xsd:string"
+                    },
+                    "patient-name": {
+                        "@id": "polygon-vocab:patient-name",
+                        "@type": "xsd:string"
+                    },
+                    "dob": {
+                        "@id": "polygon-vocab:dob",
+                        "@type": "xsd:double"
+                    },
+                    "blood-type": {
+                        "@id": "polygon-vocab:blood-type",
+                        "@type": "xsd:string"
+                    }
+                },
+                "@id": "urn:uuid:3deafa08-a79e-44e8-8883-1b718da6f498"
+            }
+        }
+    ]
+}
