@@ -28,7 +28,7 @@
                         "@type": "xsd:string"
                     }
                 },
-                "@id": "https://raw.githubusercontent.com/Na3aga/blood-type-jsonld/main/BloodRecord.jsonld#bloodRecord"
+                "@id": "https://raw.githubusercontent.com/Na3aga/blood-type-jsonld/main/BloodRecord1.jsonld#bloodRecord"
             }
         }
     ]
