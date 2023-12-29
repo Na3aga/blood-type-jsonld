@@ -1,8 +1,8 @@
 {
     "$metadata": {
         "uris": {
-            "jsonLdContext": "https://raw.githubusercontent.com/Na3aga/blood-type-jsonld/main/BloodRecord.jsonld",
-            "jsonSchema": "https://raw.githubusercontent.com/Na3aga/blood-type-jsonld/main/BloodRecord.json"
+            "jsonLdContext": "https://raw.githubusercontent.com/Na3aga/blood-type-jsonld/main/BloodRecord1.jsonld",
+            "jsonSchema": "https://raw.githubusercontent.com/Na3aga/blood-type-jsonld/main/BloodRecord1.json"
         },
         "version": "1.0",
         "type": "bloodRecord"
