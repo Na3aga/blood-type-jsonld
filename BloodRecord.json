@@ -34,7 +34,7 @@
                 "dob": {
                     "description": "date of birth ",
                     "title": "dob",
-                    "type": "number"
+                    "type": "integer"
                 },
                 "blood-type": {
                     "description": "blood type",
