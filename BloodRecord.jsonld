@@ -21,14 +21,14 @@
                     },
                     "dob": {
                         "@id": "polygon-vocab:dob",
-                        "@type": "xsd:double"
+                        "@type": "xsd:integer"
                     },
                     "blood-type": {
                         "@id": "polygon-vocab:blood-type",
                         "@type": "xsd:string"
                     }
                 },
-                "@id": "urn:uuid:3deafa08-a79e-44e8-8883-1b718da6f498"
+                "@id": "https://raw.githubusercontent.com/Na3aga/blood-type-jsonld/main/BloodRecord.jsonld#bloodRecord"
             }
         }
     ]
